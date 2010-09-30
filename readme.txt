@@ -32,7 +32,7 @@ Do you have questions or issues with MP3 Scraper? Use these support channels app
 1. [Support Forum](http://wordpress.org/tags/mp3-scraper?forum_id=10)
 1. [WordPress HelpCenter](http://wphelpcenter.com/)
 
-[Support](http://contactform7.com/support/)
+[Support](http://noblegiant.com/blog/2010/09/mp3-scraper)
 
 == Screenshots ==
 
