@@ -27,9 +27,9 @@ You will find 'MP3 Scraper' menu in your WordPress admin panel under Settings wh
 
 Do you have questions or issues with MP3 Scraper? Use these support channels appropriately.
 
-1. [Docs](http://contactform7.com/docs/)
-1. [FAQ](http://contactform7.com/faq/)
-1. [Support Forum](http://wordpress.org/tags/contact-form-7?forum_id=10)
+1. [Docs](http://noblegiant.com/blog/2010/09/mp3-scraper)
+1. [FAQ](http://noblegiant.com/blog/2010/09/mp3-scraper)
+1. [Support Forum](http://wordpress.org/tags/mp3-scraper?forum_id=10)
 1. [WordPress HelpCenter](http://wphelpcenter.com/)
 
 [Support](http://contactform7.com/support/)
