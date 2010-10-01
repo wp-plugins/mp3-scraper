@@ -4,7 +4,7 @@ Donate Link: http://noblegiant.com/blog/2010/09/mp3-scraper
 Tags: mp3, audio, music, flash, security, encoding, automatic, 1 bit audio player
 Requires at least: 2.9
 Tested up to: 3.0.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 a simple and secure mp3 audio player
 
